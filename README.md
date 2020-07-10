@@ -1,4 +1,4 @@
-### Hello world! 👋
+### Hello world! ✌️
 
 The last 10 years have been a rollercoster in the software industry for me. I've had many roles and been involved in many projects from big international software development to small startup ideas. Also I have a strong background in software engineering and teaching.
 
