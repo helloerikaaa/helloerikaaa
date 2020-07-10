@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+The last 10 years have been a rollercoster in the software industry for me. I've been having many roles and been involved in many projects from big international software development to small startup ideas. Also I have a strong background in software engineering and teaching.
+
+All my live I've been very interested in scientific programming and numeric analysis but right now I'm diving into data science and deep learning because I'm working at Barcelona Supercomputing Center as a research engineer.
+
+⚡ Fun fact: I have tattooed a "Hello World" in my left arm, in case I forget how to start programming.
 <!--
 **helloerikaaa/helloerikaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
