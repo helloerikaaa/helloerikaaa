@@ -1,7 +1,7 @@
 ### Hello world! ✌️
 
 
-![image](https://user-images.githubusercontent.com/11842660/87885561-8fc10080-c9dc-11ea-8c04-548eeb71c8d6.gif)
+![image](https://pa1.narvii.com/6545/83dacee449b3e918df1b7c5c1c03176ae0878159_hq.gif)
 
 🤓 I'm very interested in scientific programming and numerical analysis, but right now I'm diving into data science and deep learning because I'm working at Barcelona Supercomputing Center as a research engineer.
 
