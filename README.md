@@ -1,8 +1,4 @@
 ### Hello world! ✌️
-
-
-![image](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif)
-
 🤓 I'm very interested in scientific programming and numerical analysis, but right now I'm diving into data science and deep learning because I'm working at Barcelona Supercomputing Center as a research engineer.
 
 ⚡ Fun fact: I have tattooed a "Hello World" in my left arm, in case I forget how to start programming.
