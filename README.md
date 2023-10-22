@@ -1,9 +1,9 @@
 ### Hello, I'm Erika Sánchez-Femat
 
-Data Scientist | AI Researcher |
+> Data Scientist | AI Researcher 
 
 
-Welcome to my GitHub profile! I'm passionate about data science, research, and the incredible world of artificial intelligence. With over 8 years of experience in AI, I've had the privilege of delving into cutting-edge projects in and sharing my knowledge through teaching undergrad courses at [IPN](www.ipn.mx).
+I'm passionate about data science, research, and the incredible world of artificial intelligence. With over 8 years of experience in AI, I've had the privilege of delving into cutting-edge projects in and sharing my knowledge through teaching undergrad courses at [IPN](www.ipn.mx).
 
 ## 🔬 Research and Expertise
 
