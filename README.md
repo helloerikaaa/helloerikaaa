@@ -1,4 +1,4 @@
-### Hello, I'm Erika Sánchez-Femat
+## Hello, I'm Erika Sánchez-Femat
 
 > Data Scientist | AI Researcher 
 
